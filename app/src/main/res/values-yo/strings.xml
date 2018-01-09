@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!--
+    Yoruba translation for our Yoruba Audience.
+-->
+
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">E se</string>
+    <string name="toppings">Eroja</string>
+    <string name="order_summary_name">Oruko: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="name">Oruko</string>
+    <string name="whipped_cream">Kirimu</string>
+    <string name="chocolate">Shokolaati</string>
+    <string name="quantity">Melo</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order">Raa</string>
+    <string name="order_summary_whipped_cream">Fi Kirimu si</string>
+    <string name="order_summary_chocolate">Fi Shokolaati si</string>
+    <string name="order_summary_quantity">Melo: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_price">Akojo: <xliff:g example="$10" id="price">%s</xliff:g></string>
+    <string name="order_summary_email_subject">Raa pelu java lasan fun <xliff:g example="Amy" id="name">%s</xliff:g></string>
+</resources>
