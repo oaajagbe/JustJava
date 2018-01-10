@@ -7,3 +7,5 @@ Added round edged buttons
 added Circle check boxes
 
 added recepient's email address
+
+Added Yoruba Language Support for Yoruba audience.
