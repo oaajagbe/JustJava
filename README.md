@@ -8,4 +8,6 @@ added Circle check boxes
 
 added recepient's email address
 
+added NGN (Naira) symbol in place of USD
+
 Added Yoruba Language Support for Yoruba audience.
